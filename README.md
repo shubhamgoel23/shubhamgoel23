@@ -8,14 +8,15 @@
 const shubham = {
     pronouns: "He" | "Him",
     code: ["Java", "Javascipt"],
-    askMeAbout: ["web dev", "tech", "blockchain","microservice"],
+    askMeAbout: ["web dev", "tech","microservice"],
     technologies: {
         backEnd: {
-            java: ["SpringBoot", "Hibernate"],
+            java: ["SpringBoot", "Hibernate", "Concurrency"],
         },
         devOps: ["K8S", "Docker🐳","LinkerD"],
-        databases: ["mssql", "mongodb"],
-        misc: ["Flyway", "Liquibase","TestContainers"]
+        databases: ["mssql", "mongodb", "cosmosdb"],
+        monitoring: ["prometheus", "grafana"],
+        misc: ["Kafka","Flyway", "Liquibase","TestContainers"]
     }
 };
 ```
