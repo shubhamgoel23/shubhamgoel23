@@ -7,6 +7,7 @@
 ```javascript
 const shubham = {
     pronouns: "He" | "Him",
+    description: "I'm Shubham, a software engineer from India who embraces minimalism, prioritizing clear and straightforward code and design."
     code: ["Java", "Javascipt"],
     askMeAbout: ["web dev", "tech","microservice"],
     technologies: {
